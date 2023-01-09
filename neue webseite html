@@ -1,0 +1,19 @@
+<html>
+<head>
+     <title> Snake Game </title>
+     <link rel= "stylesheet" href = "webseite.css">
+</head>
+<body> 
+    <header>
+     <a href = # class ="Snake">Snake Game</a>
+     <ul>
+      <li> <a href="#"class = "live"> Home</a></li>
+      <li> <a href="#"> Regeln</a></li>
+      <li> <a href="#"> Über Uns </a></li>
+     </ul>
+    </header>
+    <section>
+    <img src ="" id= snakeman">
+    </section>
+</body>
+</html>
